@@ -1,2 +1,1 @@
-This is our second text file.
-second line in file.
+this is another line.
